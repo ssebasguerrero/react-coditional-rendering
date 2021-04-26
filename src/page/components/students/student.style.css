@@ -1,0 +1,9 @@
+.student-container {
+    border: 1px solid black;
+    text-align: left;
+    margin-bottom: 3px;
+}
+
+.student-grade-item {
+    color: red;
+}

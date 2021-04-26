@@ -1,0 +1,11 @@
+.base-table-container {
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 500px;
+    border: 1px solid black;
+}
+
+.title-item {
+    font-weight: bold;
+}
